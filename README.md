@@ -1,5 +1,14 @@
-<h1 align="center">Bienvenue sur le GitHub de G le github Maxime-liger</h1>
-<h3 align="center">Engagée à l'armée de terre pendant 5 ans j'ai été déployée et médaillée sur des missions d'outre-mer. <br> Après mes heures de service, en autodidacte, j'ai appris la base de <br> Windows Server, Linux, Python, HTML, CSS</h3>
+<h1 align="center">Bienvenue sur le GitHub de  Maxime-liger</h1>
+<h3 align="center">Engagée à l'armée de terre pendant 5 ans j'ai été déployée et médaillée sur des missions d'outre-mer. <br> Après mes heures de service en autodidacte j'ai appris les base de : <br> Windows Server, Linux, Python, HTML, CSS</h3>
+
+<pre>Projet :
+
+en Python - Mort piont
+
+en HTML CSS - Site de Fan
+
+
+</pre>
 
 <h3 align="left">Connectez-vous avec moi :</h3>
 <p align="left">
