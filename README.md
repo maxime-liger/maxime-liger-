@@ -1,7 +1,9 @@
-<h1 align="center">Bienvenue sur le GitHub de  Maxime-liger</h1>
+<h1 align="center">Bienvenue sur le GitHub de  Maxime-liger</h1> <p align="center">
 
-<img src="https://github.com/user-attachments/assets/11bcd428-7a49-4f9b-97d5-0e72aee7c7cd" width=350>
+  <img src="https://github.com/user-attachments/assets/11bcd428-7a49-4f9b-97d5-0e72aee7c7cd" width=310>
 
+
+  
 <h3 align="center">Engagée à l'armée de terre pendant 5 ans j'ai été déployée et médaillée sur des missions d'outre-mer. <br> Après mes heures de service en autodidacte j'ai appris les base de : <br> Windows Server, Linux, Python, HTML, CSS</h3>
 
 <pre>Projet :
